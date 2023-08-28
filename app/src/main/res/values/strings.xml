@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastTugas1</string>
+    <string name="btn_test_1">Login</string>
+    <string name="btn_test_2">Forgot</string>
+</resources>
